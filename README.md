@@ -1,1 +1,1 @@
-# Laboratory works of the course of algorithms Pavel Mavrin
+# Laboratory works of the course of algorithms by Pavel Mavrin
